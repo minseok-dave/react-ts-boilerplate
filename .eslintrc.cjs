@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-undef
 module.exports = {
   root: true,
-  extends: ['@minseok-dave/eslint-config-react'],
+  extends: ['@minseok-dave/eslint-config-react-ts'],
   plugins: ['tailwindcss'],
   rules: {
     'tailwindcss/no-custom-classname': [
