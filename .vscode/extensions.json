@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "csstools.postcss",
+        "formulahendry.auto-rename-tag",
+        "dbaeumer.vscode-eslint",
+        "peterschmalfeldt.explorer-exclude",
+        "eamodio.gitlens",
+        "pkief.material-icon-theme",
+        "codeandstuff.package-json-upgrade",
+        "esbenp.prettier-vscode",
+        "jock.svg",
+        "bradlc.vscode-tailwindcss",
+        "austenc.tailwind-docs",
+        "meganrogge.template-string-converter",
+        "wayou.vscode-todo-highlight"
+    ]
+}

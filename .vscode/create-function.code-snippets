@@ -1,0 +1,7 @@
+{
+  "create component": {
+    "prefix": "cf",
+    "body": ["const fn = () => {", "  return", "}", ""],
+    "description": ""
+  }
+}

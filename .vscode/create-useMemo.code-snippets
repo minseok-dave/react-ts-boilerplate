@@ -1,0 +1,7 @@
+{
+  "create component": {
+    "prefix": "cum",
+    "body": ["export const cum = useMemo(() => {", "  return 1", "})", ""],
+    "description": ""
+  }
+}

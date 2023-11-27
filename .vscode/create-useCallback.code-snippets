@@ -1,0 +1,7 @@
+{
+  "create component": {
+    "prefix": "cuc",
+    "body": ["export const cuc = useCallback(() => {", "  return 1", "})", ""],
+    "description": ""
+  }
+}
